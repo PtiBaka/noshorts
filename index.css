@@ -34,7 +34,7 @@
     border-radius: 9999px;
     cursor: pointer;
     transition: transform 0.5s ease; /* Set the transition property for smooth animation */
-
+    margin: 10px
 }
 
 #short:hover {
@@ -44,4 +44,8 @@
 #ytb-noshort{
     display: flex;
     flex-direction: column;
+}
+
+#pas-un-short{
+        padding: 10px;
 }
